@@ -4,7 +4,7 @@ let outputField = document.querySelector('#age-output').style.display = 'none';
 
 let btn = document.querySelector('#btn');
 
-let words = ["Generator","verifyer", "checker"];
+let words = ["Calculator","verifyer", "checker"];
 
 let typeWriter = document.getElementById('typewriter');
 
